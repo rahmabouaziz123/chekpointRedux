@@ -1,0 +1,15 @@
+
+export const ADDNIEWTASK="ADDNIEWTASK"
+
+
+export const DELETEELEMENT="DELETEELEMENT"
+
+
+export const COMPLETE="COMPLETE"
+
+
+export const FILTERELEMENT="FILTERELEMENT"
+
+
+
+export const EditELEMENT="EditELEMENT"
